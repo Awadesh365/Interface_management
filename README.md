@@ -45,3 +45,42 @@ Prototyping: You can validate your ideas and get instant feedback from users as 
    
    
            -------------------------------------------------------------*****------------------------------------------------
+           
+2 --> Prototyping   
+validate the idea by doing a low level implementation (Proof of Concept) of the components involved in the project.
+
+This helps you to:   
+ *more clarity around the unknowns.
+ *a better understanding of the stages involved in the project.
+ *various aspects of the terms mentioned in the preceding sections, like why to use JQuery instead of JavaScript (ES6), XML vs HTML, why use HTML5/CSS3 and not the other versions, etc.    
+
+Requirements:- 
+Ideally this is a simple JQuery-based app. So start by creating one by first downloading jQuery  
+Then create an appropriate project folder with essential files. 
+ 
+        --------------------------------------------------------******--------------------------------------------------------------
+
+ 3 -->basic site layout 
+ 
+In this milestone, the basic structure of the code-editor is built (excluding the core functionality) using HTML.   
+   
+ *Requirements:- 
+
+The main components to be created are HTML, CSS, JS buttons (render upon toggling) and a ‘run’ button. This can be done using simple lists in HTML.      
+Wrap all the components and containers in appropriate classes and divisions which will then be used for references in styling. This step must be done in the future too, when the need arises.      
+Create (three) containers in which the HTML, CSS, JS code snippets will be inputted by the user. For this use the textarea HTML tag.    
+Finally wrap the ‘run’ button with the iframe element (can be done later). iframe element is used to render the desired output as a webpage within a webpage.      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
