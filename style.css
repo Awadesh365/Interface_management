@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+button{
+    background-color: red;
+}
+header{
+  color: white;
+}
+output{
+  background-color: chartreuse;
+}
+span{
+    color:blue;
+}
+iframe{
+    color: cyan;
+    background-color: blue;
+}
+td{
+    color:rgb(255, 0, 0);
+    background-color: blue;
+}
+h1{
+    color: chartreuse;
+}
+h2{
+    color: rgb(21, 0, 255);
+}
+h3{
+    color: blueviolet;
+}
