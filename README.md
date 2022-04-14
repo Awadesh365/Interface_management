@@ -1,5 +1,5 @@
 # Online-code-editor
-# (created by Awadesh Nautiyal)
+
  Visit our website by clicking this link-
 
 
@@ -7,7 +7,7 @@
 
 Objective:- 
 
-Create an online code editor for HTML, CSS and JS code snippets using HTML, CSS and JQuery(js).
+Create an online code editor for HTML, CSS and JS code snippets using HTML, CSS, Bootstrap and JavaScript.
 
 
 Project Context
