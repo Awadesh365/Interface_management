@@ -5,6 +5,9 @@ body {
     margin: 0;
     
 }
+button{
+    font-size: 30px;
+}
 .page-container {
     height: 100vh;
     display: flex;
