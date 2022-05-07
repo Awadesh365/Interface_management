@@ -1,0 +1,128 @@
+h1 {
+    color: white;
+    text-align: center;
+        font-weight: normal;
+        font-size: 40px;
+        font-style: italic;
+        text-decoration: blue underline;
+        letter-spacing: 5px;
+}
+
+h2 div {
+    color: red;
+    text-align: center;
+        font-weight: normal;
+        font-size: 40px;
+        font-style: italic;
+        text-decoration: blue underline;
+        letter-spacing: 5px;
+}
+
+table {
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+span {
+    color: aquamarine;
+}
+
+iframe {
+    background-color:honeydew;
+}
+
+body {
+    margin: -1.5rem auto;
+}
+
+body {
+    margin: -1.5rem auto;
+}
+
+.container {
+    color: aquamarine;
+    background: darkcyan;
+    padding: 1rem 0rem;
+    width: 100%;
+}
+
+.tabs {
+    margin-left: 75%;
+    font-size: 20px;
+}
+
+.title {
+    margin: -2.5rem 0rem 0rem 6rem;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.tab-btn {
+    padding: 0rem 1rem 0rem 1rem;
+    text-decoration: none;
+    color: aquamarine;
+}
+
+.code-icon {
+    max-width: 4rem;
+    margin: 2rem 0rem 0rem 1rem;
+}
+
+.list-item {
+    margin: 1rem 0rem 1rem 20rem;
+}
+
+.list-item-inline {
+    display: inline-block;
+    list-style: none;
+    border: 1px solid black;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    width: 13%;
+    text-align: center;
+    margin-left: 2px;
+    background: darkgoldenrod;
+    font-size: 20px;
+}
+
+.toggle {
+    border: none;
+    font-size: 1rem;
+    /* appearance: none; */
+    background: darkgoldenrod;
+    font-weight: bold;
+}
+
+.run-btn {
+    margin-left: 40%;
+    border: solid 1px;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    width: 12%;
+}
+
+textarea {
+    /* margin: 2rem; */
+    border: 1px solid;
+    color: white;
+    background-color: rgb(44, 44, 44);
+    min-height: 25rem;
+    min-width: 25rem;
+    overflow: scroll;
+    display: inline-block;
+}
+
+.newclass {
+    font-size: 120%;
+    border: none;
+}
+
+.iframe-css {
+    text-align: center;
+    border: solid 1px;
+    width: 102%;
+    overflow: scroll;
+}
