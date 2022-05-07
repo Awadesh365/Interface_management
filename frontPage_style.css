@@ -1,13 +1,38 @@
 body {
-    background-image: linear-gradient(to left, rgb(192, 199, 255), rgb(222, 99, 107));
+    background-image: linear-gradient(to left, rgb(60, 77, 205), rgb(242, 79, 90));
 }
-button{
+
+section {
+    color: aliceblue;
+}
+
+h1{
+    text-align: center;
+        font-weight: normal;
+        font-size: 60px;
+        font-style: italic;
+        text-decoration: rgb(255, 183, 0) underline;
+        letter-spacing: 14px;
+}
+
+h2{
+    color: cornsilk;
+    text-align: center;
+        font-weight: normal;
+        font-size: 30px;
+        font-style: italic;
+        text-decoration: rgb(25, 25, 198) underline ;
+        letter-spacing: 5px;
+}
+
+button {
     border: 1px solid;
-        color: white;
-        background-color: rgb(27, 9, 9);
-        min-height: 25rem;
-        min-width: 25rem;
-        overflow: scroll;
-        display: inline-block;
-        box-shadow: chartreuse;
+    font-size: 40px;
+    color: white;
+    font-family: cursive;
+    background-image: linear-gradient(to left, rgb(92, 222, 4), rgb(196, 242, 79));
+    min-height: 10rem;
+    min-width: 2rem;
+    overflow: scroll;
+    display: inline-block;
 }

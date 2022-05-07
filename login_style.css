@@ -5,10 +5,6 @@ body {
     margin: 0;
     
 }
-button{
-    background color: aqua;
-}
-
 .page-container {
     height: 100vh;
     display: flex;
