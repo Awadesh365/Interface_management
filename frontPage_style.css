@@ -1,0 +1,13 @@
+body {
+    background-image: linear-gradient(to left, rgb(192, 199, 255), rgb(222, 99, 107));
+}
+button{
+    border: 1px solid;
+        color: white;
+        background-color: rgb(27, 9, 9);
+        min-height: 25rem;
+        min-width: 25rem;
+        overflow: scroll;
+        display: inline-block;
+        box-shadow: chartreuse;
+}
