@@ -69,7 +69,24 @@ In this milestone, the basic structure of the code-editor is built (excluding th
 The main components to be created are HTML, CSS, JS buttons (render upon toggling) and a ‘run’ button. This can be done using simple lists in HTML.      
 Wrap all the components and containers in appropriate classes and divisions which will then be used for references in styling. This step must be done in the future too, when the need arises.      
 Create (three) containers in which the HTML, CSS, JS code snippets will be inputted by the user. For this use the textarea HTML tag.    
-Finally wrap the ‘run’ button with the iframe element (can be done later). iframe element is used to render the desired output as a webpage within a webpage.      
+Finally wrap the ‘run’ button with the iframe element (can be done later). iframe element is used to render the desired output as a webpage within a webpage.  
+
+-------------------------------------------------*****************************************----------------------------------------------
+
+4--> core-functionality of the code-editor
+ The basic features to be implemented are the following:
+
+HTML, CSS, JS buttons should open/close it’s corresponding container for users to easily input and handle respective code inputs.
+A ‘run’ button that will execute the code on toggle.
+A result window which will show the corresponding output after the code is run. Implement the logic for this part using the iframe element.
+
+5-->website live  
+
+ by using GitHub pages we are hosting our editor live.
+
+ -------------------------------------------------******************************************-------------------------------------
+ 
+ 
 
 
 
