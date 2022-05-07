@@ -1,9 +1,21 @@
 h1 {
-    color: blue;
+    color: white;
+    text-align: center;
+        font-weight: normal;
+        font-size: 40px;
+        font-style: italic;
+        text-decoration: blue underline;
+        letter-spacing: 5px;
 }
 
 h2 div {
-    color: green;
+    color: red;
+    text-align: center;
+        font-weight: normal;
+        font-size: 40px;
+        font-style: italic;
+        text-decoration: blue underline;
+        letter-spacing: 5px;
 }
 
 table {
