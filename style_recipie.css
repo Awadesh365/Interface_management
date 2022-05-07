@@ -1,0 +1,75 @@
+body {
+    background-color: honeydew;
+}
+
+/* 
+  Descendent Selector
+  one afer another
+ */
+body div nav li a {
+    color: blue;
+    background-color: chartreuse;
+}
+
+/* 
+id is used to give a unique identity to an element, represne in css as # 
+let say we have 100's of h2 in our document 
+so to give unique identity to an speific h2 or any other selector we use id 
+*/
+#pq {
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+    text-decoration: line-through;
+}
+
+/* (.className) classes in css in which we can style multiple elements at once */
+.tag {
+    background-color: chartreuse;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    font-weight: normal;
+    font-size: 60px;
+    font-style: italic;
+    text-decoration: blue underline wavy;
+    letter-spacing: 17px;
+}
+
+/* to color a unique input we use type="" more with general attribute  */
+input[type="password"] {
+    color: aqua;
+}
+
+#log_in {
+    color: black;
+    background-color: pink;
+
+}
+
+#sign_up {
+    color: blue;
+    background-color: orange;
+}
+
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 17px;
+    text-decoration: underline rgb(255, 64, 0);
+}
+
+ul {
+    font-weight: bold;
+}
+
+p {
+    line-height: 9px;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
