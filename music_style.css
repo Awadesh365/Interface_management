@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2019/04/13/20/51/music-background-4125571_1280.jpg);
+}
+p{
+    text-align: center;
+        font-weight: normal;
+        font-size: 20px;
+}
+h1{
+    text-align: center;
+        font-weight: normal;
+        font-size: 60px;
+        font-style: italic;
+        text-decoration: blue underline;
+        letter-spacing: 17px;
+}
