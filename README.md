@@ -1,4 +1,6 @@
-Now this website is Live at -https://awadesh365.github.io/Interface_Management/
+Now this website is Live at -https://6283addf13da07186d0139e5--splendid-kashata-809a5f.netlify.app/,
+
+https://awadesh365.github.io/Interface_Management/
 
 EXPERIMENT NO. 1
 
