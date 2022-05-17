@@ -15,20 +15,21 @@ $(function () {
             $('#tab1').toggle(500);
         } else if (activeDiv == "CSS") {
             $('#tab2').toggle(500);
-        } else if (activeDiv =="JavaScript"){
+        } else if (activeDiv == "JavaScript") {
             $('#tab3').toggle(500);
         } else if (activeDiv == "Console") {
             $('#tab4').toggle(500);
         }
         var showingDivs = $("textarea").filter(function () {
-            return $("textarea",this).html() != activeDiv}).css({ "background-color": "aquamarine" });
-        
+            return $("textarea", this).html() != activeDiv
+        }).css({ "background-color": "aquamarine" });
+
         console.log(showingDivs);
-        
+
     });
     /* Function for Run button */
     $(".run-btn").click(function updateIframe() {
-        var htmlContent = $("#myframe").contents().find("body"); 
+        var htmlContent = $("#myframe").contents().find("body");
         var htmlValue = $("#tab1").val(); // htmlValue contains html code
         htmlContent.html(htmlValue);
         console.log(htmlValue);
@@ -45,6 +46,6 @@ $(function () {
         content.find('body').append(js);
     });
 
-    
-    
+
+
 });

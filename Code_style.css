@@ -1,43 +1,3 @@
-h1 {
-    color: white;
-    text-align: center;
-        font-weight: normal;
-        font-size: 40px;
-        font-style: italic;
-        text-decoration: blue underline;
-        letter-spacing: 5px;
-}
- 
-h2 div {
-    color: red;
-    text-align: center;
-        font-weight: normal;
-        font-size: 40px;
-        font-style: italic;
-        text-decoration: blue underline;
-        letter-spacing: 5px;
-}
-
-table {
-    color: white;
-}
-
-body {
-    background-color: black;
-}
-
-span {
-    color: aquamarine;
-}
-
-iframe {
-    background-color:honeydew;
-}
-
-body {
-    margin: -1.5rem auto;
-}
-
 body {
     margin: -1.5rem auto;
 }
@@ -107,8 +67,7 @@ body {
 textarea {
     /* margin: 2rem; */
     border: 1px solid;
-    color: white;
-    background-color: rgb(44, 44, 44);
+    background: aquamarine;
     min-height: 25rem;
     min-width: 25rem;
     overflow: scroll;
